@@ -6,7 +6,7 @@
     color: yellow;
 }
 .text-box:nth-child(1) {
-    color: pink;
+    color: pink
 }
 h3 + p {
     color: green;
