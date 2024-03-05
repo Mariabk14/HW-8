@@ -14,3 +14,18 @@ p:nth-child(1) {
 p:nth-child(7) {
     color:green
 }
+.erste li:nth-child(2):hover{
+    color: blue;
+}
+.zwei li:first-child{
+    color: brown;
+}
+.dritte :nth-child(odd):visited{
+    color: coral;
+}
+.vier li:hover:nth-child(3){
+    color: green;
+}
+.feiv :focus:nth-child(3){
+    color: hotpink;
+}
