@@ -20,12 +20,12 @@ p:nth-child(7) {
 .zwei li:first-child{
     color: brown;
 }
-.dritte :nth-child(odd):visited{
+.dritte:nth-child(odd):visited{
     color: coral;
 }
-.vier li:hover:nth-child(3){
+.vier li:nth-child(3):hover{
     color: green;
 }
-.feiv :focus:nth-child(3){
+.feiv:nth-child(3):focus{
     color: hotpink;
 }
